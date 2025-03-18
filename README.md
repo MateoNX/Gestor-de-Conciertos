@@ -1,0 +1,1 @@
+Un programa de Java sencillo que permite gestionar conciertos y otro tipo de eventos similares a través de la creación de entradas y asistentes vinculados entre sí. Este es uno de mis programas de iniciación en este lenguaje con POO.
